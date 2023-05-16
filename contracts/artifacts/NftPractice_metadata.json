@@ -811,11 +811,11 @@
 			]
 		},
 		"contracts/NftPractice.sol": {
-			"keccak256": "0xe15f6d7438b2acf5c2fa34581e76f0cc52ff9ebfedbbd67d10b46ca3cc6d9f3a",
+			"keccak256": "0x436c33d97e07238f2782a9607714caffeb47cd7738ce0564d691a87d0c6a223a",
 			"license": "Unlicesend",
 			"urls": [
-				"bzz-raw://1cce58f75bd6585898a5a1ffa6068a7f85dc5b3b985238d76371e1209c2c0194",
-				"dweb:/ipfs/QmUDtvyLny4cMJpDUwxByrDDvEXKom61WmLze56xupaDcQ"
+				"bzz-raw://d9b45f3d620493d04aaade76c271b779781b23562355ca5a8e78d6e6a3b28163",
+				"dweb:/ipfs/QmTmegmvMZXqMfs9vSHzRFZvVugGHNjEV4yQQcqKzUMsMW"
 			]
 		}
 	},
